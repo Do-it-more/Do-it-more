@@ -66,7 +66,7 @@
 
 ### 🐍 Watch the snake eat my contributions
 
-<img src="https://raw.githubusercontent.com/sathish/sathish/output/github-snake-pink.svg" alt="Contribution snake"/>
+<img src="https://raw.githubusercontent.com/Do-it-more/Do-it-more/output/github-snake-pink.svg" alt="Contribution snake"/>
 
 <br/><br/>
 
