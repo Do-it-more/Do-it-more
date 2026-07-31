@@ -50,7 +50,7 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=sathish&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Do-it-more&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Streak"/>
 
 <br/><br/>
 
