@@ -152,7 +152,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 
     </text>
 </g>
-<g class="" transform="translate(30,0)" style="animation-delay:3s"><path d="M410 168 c-5-11-21-9-21 4 0 9 12 16 21 22 9-6 21-13 21-22 0-13-16-15-21-4z" fill="#ff7eb6" opacity=".95"/></g>
+<g transform="translate(8,0)" class="hb"  style="animation-delay:3s"><path d="M410 168 c-5-11-21-9-21 4 0 9 12 16 21 22 9-6 21-13 21-22 0-13-16-15-21-4z" fill="#ff7eb6" opacity=".95"/></g>
 
 <!-- Cycling roles -->
 <text clip-path="url(#r1)" x="48" y="241" font-size="17" fill="#e879f9" filter="url(#glow)">&lt; Full Stack Developer /&gt;</text>
